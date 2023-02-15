@@ -1,0 +1,25 @@
+<controller path="/user">
+    <request-mapping path="/test" method="post">
+        <request>
+            <request-param>
+                <param>
+
+                </param>
+            </request-param>
+            <request-body>
+
+            </request-body>
+        </request>
+        <statement type="sql/function/procedure">
+            <sql>
+
+            </sql>
+            <result>
+
+            </result>
+        </statement>
+        <response>
+
+        </response>
+    </request-mapping>
+</controller>
